@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "Noolithal",
   "orientation": "any",
-  "scope": "/",
+  "scope": "/Noolithalapp/",
   "short_name": "Noolithal",
-  "start_url": "/",
+  "start_url": "/Noolithalapp/",
   "theme_color": "#45a046",
   "icons": [
   {
