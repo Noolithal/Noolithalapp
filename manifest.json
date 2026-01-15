@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Noolithal",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Noolithal",
+  "start_url": "/",
+  "theme_color": "#45a046",
+  "description": "Noolithal app"
+}
