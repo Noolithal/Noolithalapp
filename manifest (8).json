@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Noolithalofficial",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Noolithalofficial",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "Noolithal management"
+}
