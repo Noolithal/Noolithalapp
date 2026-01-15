@@ -1,14 +1,11 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "name": "Noolithal",
+  "short_name": "MyApp",
+  "description": "My PWA application",
+  "start_url": "./index.html",
   "display": "standalone",
-  "name": "Noolithalofficial",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "Noolithalofficial",
-  "start_url": "/",
-  "theme_color": "#ffffff",
-  "description": "Noolithal management"
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
   "icons": [
     {
       "src": "icon-192.png",
