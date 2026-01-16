@@ -1,6 +1,6 @@
 {
   "name": "Noolithal",
-  "short_name": "MyApp",
+  "short_name": "Noolithal",
   "description": "My PWA application",
   "start_url": "./index.html",
   "display": "standalone",
