@@ -1,11 +1,11 @@
 {
   "name": "Noolithal",
   "short_name": "Noolithal",
-  "description": "My PWA application",
+  "description": "Noolithal PWA application",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0d6efd",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "icon-192.png",
